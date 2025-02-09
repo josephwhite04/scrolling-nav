@@ -1,0 +1,45 @@
+.custom-header {
+    background-image:url("../img/hearts\ 2.jpg");
+    background-position: center center;
+    background-size: cover;
+ }
+ 
+ 
+ .custom-dark-glow {
+    color:rgb(0, 255, 204);
+    text-shadow:1px 1px 10px #000, 1px 1px 10px rgb(29, 29, 29);
+ }
+ 
+ 
+ body {text-align:center;}
+ 
+ 
+ h1, h2 {
+    font-family: 'Ubuntu Mono', cursive;
+ }
+ 
+ 
+ h3 {
+ margin-top: 3rem;
+ margin-bottom: 2rem;
+ }
+ 
+ 
+ .my-custom-color {background-color:#ff6161;}
+ 
+ 
+ .tab-content > .active {
+    display: block;
+    background-color: #ffffff;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+ 
+ 
+ .nav-link:hover {
+    color: #000;
+  }
+   .nav-link {
+      color:#fff;
+ 
